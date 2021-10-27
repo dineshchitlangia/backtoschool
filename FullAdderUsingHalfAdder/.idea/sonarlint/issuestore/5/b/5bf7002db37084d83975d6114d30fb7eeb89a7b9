@@ -1,0 +1,16 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8öÅ¿×Ë/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(®ë•ƒ8Ğ¥şÕË/
+G
+java:S1481"*Remove this unused "index" local variable.(ìüà·8á°ÔÕË/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉ‘ ıÿÿÿÿ8Á›¸ÔË/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8öÅ¿×Ë/
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(Å¥¯`8Ğ¥şÕË/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(µƒìûÿÿÿÿ8ç‡Å×Ë/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ôû˜üÿÿÿÿ8öÅ¿×Ë/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•˜ùÿÿÿÿ8Á›¸ÔË/
+0
+java:S1220""Move this file to a named package.
