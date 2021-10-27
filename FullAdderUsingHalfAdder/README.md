@@ -7,7 +7,8 @@ Constraints:
  - Do not use any in-built library functions that allow you to convert a binary number to integer and vice versa.
  - Perform the sum as a true binary operation
 
-Solution Approach  
+**Solution Approach**
+
 As we cannot use any built-in features or bitwise operators, we have to perform the sum like a low level operation.  
 
 So we need to think about implementing Adders.  
