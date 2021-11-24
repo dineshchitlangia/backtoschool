@@ -1,4 +1,4 @@
-package org.dc.pq;
+package org.dc.sort.heap.pq;
 
 public class Element {
   int priority;

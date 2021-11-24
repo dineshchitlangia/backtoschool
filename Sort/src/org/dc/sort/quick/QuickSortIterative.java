@@ -1,4 +1,4 @@
-package org.dc.sort;
+package org.dc.sort.quick;
 
 public class QuickSortIterative {
 

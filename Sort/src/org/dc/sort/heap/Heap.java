@@ -1,4 +1,4 @@
-package org.dc.heap;
+package org.dc.sort.heap;
 
 /**
  * Min heap and Heap Sort

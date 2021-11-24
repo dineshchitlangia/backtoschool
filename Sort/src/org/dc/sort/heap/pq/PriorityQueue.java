@@ -1,4 +1,4 @@
-package org.dc.pq;
+package org.dc.sort.heap.pq;
 
 /**
  * Priority Queue using Min Heap.
